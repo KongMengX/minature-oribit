@@ -1,7 +1,15 @@
-#kitty{
-    width: 100px;
-    height: 100px;
-    position: relative;
-    top: 0;
-    left: 0;
+body{
+    background-image:url(https://i0.wp.com/thinklandscape.globallandscapesforum.org/wp-content/uploads/2020/08/redwood-caro-3.jpg?fit=2045%2C851&ssl=1);
+}
+
+h1{
+    background-color:antiquewhite;height:90px;
+    background-position: center;
+}
+
+.container{
+    display: grid;
+    grid-template-areas:
+    'intro intro'
+
 }
